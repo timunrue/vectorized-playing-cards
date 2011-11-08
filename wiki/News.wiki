@@ -10,4 +10,7 @@
  * SVG groups cleaned up in combined the 52 cards set.
  * SVG color set for easier use in programming.
 
-*4/24/2011 - Initial 1.0 Release*
+*6/9/2011 - Version 1.1*
+ * ESP Card Set added
+
+*4/24/2011 - Version 1.0 Release*
