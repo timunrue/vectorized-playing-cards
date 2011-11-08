@@ -6,4 +6,9 @@
     Additional cleanup/optimization of court cards. Card Back Template   
     added. One can add their own image or pattern. 
 
+9/11/2011 - Version 1.2 released
+
+    Some grouping errors fixed. SVG groups cleaned up in combined 52 .SVG 
+    color set for easier use in programming.
+
 4/24/2011 - Initial 1.0 Release
