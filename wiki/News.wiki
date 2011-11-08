@@ -1,4 +1,9 @@
 #labels Featured
 = News =
 
+10/29/2011 - Version 1.3 Released
+
+    Additional cleanup/optimization of court cards. Card Back Template   
+    added. One can add their own image or pattern. 
+
 4/24/2011 - Initial 1.0 Release
